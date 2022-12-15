@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="University.UI.Report">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAEAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.Main">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MAiCCiIBiCgWBKAAA1CQAYCSBIiZK5AAkGQahQoAQzA=</HashCode>
+      <FileName>UI\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.UI.Help">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAAACACBBAAAACAAACCAAgYAwAAAAAKAQAAAQA=</HashCode>
+      <FileName>UI\Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.Auth">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACAAABAAAACAAAACABIAAAAAEAGAAAAAAAQ=</HashCode>
+      <FileName>UI\Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.DataManager">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="University.DataManager.User" Collapsed="true">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="University.DataManager.Teacher" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="University.DataManager.Student" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAEAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
